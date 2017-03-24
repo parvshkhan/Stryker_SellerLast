@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/DP180"
+    android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/rel_product_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_tabs">
+
+        <TextView
+            android:id="@+id/txt_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/preview"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/DP20"
+            android:text="Preview"
+            android:gravity="center"
+            android:textColor="@color/Text_color"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rel_addproduct"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rel_product_list">
+
+        <TextView
+            android:id="@+id/txt_add_hot_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Hot Products"
+            android:textSize="@dimen/SP15"
+            android:textColor="@color/Text_color"
+            android:layout_marginLeft="@dimen/DP15"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+
+        <ImageView
+            android:id="@+id/img_onoff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/on1"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingRight="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            />
+
+        <TextView
+            android:id="@+id/txt_publish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Publish"
+            android:textSize="@dimen/SP12"
+            android:textColor="@color/Text_color"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/img_onoff"
+            />
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view_1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DP2"
+        android:layout_below="@+id/rel_addproduct"
+        android:background="@drawable/line_3b_1"
+        android:layout_marginLeft="@dimen/DP15"
+        android:layout_marginRight="@dimen/DP15"/>
+
+    <ImageView
+        android:id="@+id/img_add_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/view_1"
+        android:src="@drawable/add3"
+        android:padding="@dimen/DP10"
+        />
+
+    <RelativeLayout
+        android:id="@+id/rel_hotproduct"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_add_product"
+        >
+
+        <TextView
+            android:id="@+id/txt_hotproduct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hot Product List"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:layout_marginLeft="@dimen/DP15"
+            />
+
+        <View
+            android:id="@+id/view_2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DP2"
+            android:layout_below="@+id/txt_hotproduct"
+            android:background="@drawable/line_3b_1"
+            android:layout_marginLeft="@dimen/DP15"
+            android:layout_marginRight="@dimen/DP15"
+            android:layout_marginTop="@dimen/DP3"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

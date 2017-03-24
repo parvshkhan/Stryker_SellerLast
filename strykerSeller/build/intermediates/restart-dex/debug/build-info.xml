@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="10687396196043"
+    token="-7457599354722223017"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="337" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="30" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <build
+        timestamp="7628638873681"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\MarketApp\Stryker_Seller\strykerSeller\build\outputs\apk\strykerSeller-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="10573255671152"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="10687396196043"
+        verifier="COLD_SWAP_REQUESTED" />
+    <build
+        timestamp="30560757312900"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

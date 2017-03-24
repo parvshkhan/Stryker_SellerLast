@@ -1,0 +1,138 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color" >
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header" >
+
+        <ImageView
+            android:id="@+id/img_add1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/add1"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txt_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Stryker"
+            android:layout_marginLeft="@dimen/DP20"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+
+        <ImageView
+            android:id="@+id/img_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP10"
+            android:visibility="invisible"
+            android:src="@drawable/search2" />
+
+        <ImageView
+            android:id="@+id/img_settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/DP5"
+            android:layout_toLeftOf="@+id/img_search"
+            android:padding="@dimen/DP7"
+            android:src="@drawable/settings" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:orientation="horizontal"
+        android:weightSum="20" >
+
+        <RelativeLayout
+            android:id="@+id/rl_orders"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/select1" >
+
+            <TextView
+                android:id="@+id/txt_order"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP5"
+                android:text="ORDERS"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_stores"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/select2" >
+
+            <TextView
+                android:id="@+id/txt_store"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP5"
+                android:text="STORES"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_fragment_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_tabs"
+       >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager_home_item"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fadingEdge="none" >
+        </android.support.v4.view.ViewPager>
+    </RelativeLayout>
+
+    <!--
+    <ListView
+        android:id="@+id/lv_store_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_tabs"
+        android:fadingEdge="none">
+    </ListView>
+    -->
+    
+   <!-- <RelativeLayout android:id="@+id/rl_instruction"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#55000000">
+        
+    </RelativeLayout>-->
+
+    
+
+</RelativeLayout>

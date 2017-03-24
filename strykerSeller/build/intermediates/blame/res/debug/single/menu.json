@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\menu\\rooms.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\menu\\rooms.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\menu\\search_menu.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\menu\\search_menu.xml"
+    }
+]

@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/DP20"
+    android:layout_marginRight="@dimen/DP20"
+    android:layout_marginTop="@dimen/DP20">
+
+    <ImageView
+        android:id="@+id/img_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/circle1" />
+
+    <RelativeLayout
+
+        android:id="@+id/rl_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DP15"
+        android:layout_marginRight="@dimen/DP5"
+        android:layout_marginTop="@dimen/DP10"
+        android:layout_toRightOf="@+id/img_profile">
+
+
+        <TextView
+            android:id="@+id/txt_store_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/txt_total_1"
+            android:singleLine="true"
+            android:text="Ammy Deans"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/txt_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="@dimen/DP3"
+            android:padding="@dimen/DP2"
+            android:text="12/03/2015"
+            android:textSize="@dimen/SP12" />
+
+        <ImageView
+            android:id="@+id/img_up_line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/txt_date"
+            android:src="@drawable/line_up" />
+
+        <TextView
+            android:id="@+id/txt_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/img_up_line"
+            android:padding="@dimen/DP2"
+            android:text="12:35"
+            android:textSize="@dimen/SP12" />
+
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lorem Ipsum is simply dummy test for printing"
+        android:layout_below="@+id/rl_notification"
+        android:layout_marginLeft="@dimen/DP15"
+        android:layout_marginRight="@dimen/DP5"
+        android:singleLine="true"
+        android:textSize="@dimen/SP15"
+        android:layout_toRightOf="@+id/img_profile"/>
+
+    <RelativeLayout
+
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_profile"
+        android:layout_marginLeft="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP10"
+        android:background="@drawable/line3">
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

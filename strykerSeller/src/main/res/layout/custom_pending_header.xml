@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/txt_header_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toothpaste"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP12"
+        android:background="@drawable/cato"
+        android:paddingTop="@dimen/DP5"
+        android:paddingBottom="@dimen/DP5"
+        android:gravity="center_vertical|left"
+        android:paddingLeft="@dimen/DP20"/>
+
+</RelativeLayout>

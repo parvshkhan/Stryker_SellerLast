@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Stryker_Seller.iml" filepath="$PROJECT_DIR$/Stryker_Seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moreActivity/moreActivity.iml" filepath="$PROJECT_DIR$/moreActivity/moreActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplecropimagelib/simplecropimagelib.iml" filepath="$PROJECT_DIR$/simplecropimagelib/simplecropimagelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strykerSeller/strykerSeller.iml" filepath="$PROJECT_DIR$/strykerSeller/strykerSeller.iml" />
+    </modules>
+  </component>
+</project>

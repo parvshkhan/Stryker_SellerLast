@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_conatct.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_conatct.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_chat.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_chat.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reports.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\edit_profile.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\edit_profile.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\signup_activity.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\signup_activity.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_store.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_chat_store.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\buyer_activity_forgot_password.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\buyer_activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_add_store.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_add_store.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_message.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\list_item_message.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\footer_pending_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\footer_pending_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\buyer_activity_login.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\buyer_activity_login.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_home_stores_1.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_home_stores_1.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\custom_pending_header.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\custom_pending_header.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_chooser_options.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\dialog_chooser_options.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\hotproductlist.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\hotproductlist.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_room.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\list_item_room.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dailog.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\custom_dailog.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_add_products_1.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_add_products_1.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_store_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_store_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_add_product_bullet.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_add_product_bullet.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_order_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_order_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_product_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_product_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\hotaddlist.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\hotaddlist.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_address_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_address_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_forgot_password.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_sticker.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\list_item_sticker.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_reports_products.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_reports_products.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_order_list_1.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_order_list_1.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\Stryker_Seller\\simplecropimagelib\\unspecified\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_push_notification.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_push_notification.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_notifications.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_notifications.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pending.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_pending.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_chat.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_chat.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_pending.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_pending.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_pending.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_pending.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_product.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_add_product.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_hot_product.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_hot_product.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_card_chat_option.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_card_chat_option.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_product_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_product_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\Stryker_Seller\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_push_notification.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_push_notification.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list_3.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_product_list_3.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_reports.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_reports.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_header_productlist.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_header_productlist.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_push_notification.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_push_notification.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_product_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_add_product_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_home_stores.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_home_stores.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\update_product_detail.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\update_product_detail.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_user.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\list_item_user.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_signup.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_signup.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_verify_number.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_verify_number.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_orders.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_home_orders.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_share.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_invite_share.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\dialogs_activity.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\dialogs_activity.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_new.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\dialog_new.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_manage_users.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_chat_manage_users.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_reports_date.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_reports_date.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_manage_user.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_manage_user.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_add_products.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_add_products.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\Stryker_Seller\\simplecropimagelib\\unspecified\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_hot_product_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_hot_product_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_product_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_order_history.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_order_history.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_store_home.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_pager_store_home.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_order_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_order_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_reports_user.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_reports_user.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list_1.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_product_list_1.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_home_orders.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_home_orders.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_notification.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_notification.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_store_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_store_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_1.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\activity_login_1.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_product.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_product.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_notification.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_activity_notification.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\Stryker_Seller\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\fragment_product_list.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_notification_header.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_notification_header.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list_2.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\row_product_list_2.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_order_history.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_order_history.xml"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_reports_product.xml",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\layout\\seller_row_reports_product.xml"
+    }
+]

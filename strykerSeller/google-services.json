@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "210422137252",
+    "firebase_url": "https://nagarparishad-cac46.firebaseio.com",
+    "project_id": "nagarparishad-cac46",
+    "storage_bucket": "nagarparishad-cac46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210422137252:android:605f4e42153fe143",
+        "android_client_info": {
+          "package_name": "com.bhilwara.nagarparishad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210422137252-1gm30bren56a7bk7f70c6dk0cqfk9gno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhilwara.nagarparishad",
+            "certificate_hash": "97397f78bc59e4df713a06e81cf2ae45f549cd1f"
+          }
+        },
+        {
+          "client_id": "210422137252-3innkc8u57t7cm9e4nec4hvlo4iver9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVhVoEhJiAVdTbKaUyWg2QV2G7fHBI9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210422137252-3innkc8u57t7cm9e4nec4hvlo4iver9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210422137252:android:68be9ed12da5b2ca",
+        "android_client_info": {
+          "package_name": "com.dreamtouchindia.dreamtouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210422137252-3innkc8u57t7cm9e4nec4hvlo4iver9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVhVoEhJiAVdTbKaUyWg2QV2G7fHBI9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210422137252:android:884ced7d1655bedf",
+        "android_client_info": {
+          "package_name": "com.app.strykerseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210422137252-17imrhblurf2r0f6l0dob2vfu342co11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.strykerseller",
+            "certificate_hash": "b8c7a2dab202cb71562b35f35eff0592e520a120"
+          }
+        },
+        {
+          "client_id": "210422137252-3innkc8u57t7cm9e4nec4hvlo4iver9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVhVoEhJiAVdTbKaUyWg2QV2G7fHBI9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210422137252-3innkc8u57t7cm9e4nec4hvlo4iver9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

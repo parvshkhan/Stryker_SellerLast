@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/rl_bullet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/DP7"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_marginTop="@dimen/DP5" >
+
+        <ImageView
+            android:id="@+id/img_dot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/DP5"
+            android:src="@drawable/dot" />
+
+        <TextView
+            android:id="@+id/txt_bullet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/img_dot"
+            android:text="This is dummy text."
+            android:textColor="@color/black1"
+            android:textSize="@dimen/SP15"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/img_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/DP5"
+            android:src="@drawable/cross" />
+    </RelativeLayout>
+
+</RelativeLayout>

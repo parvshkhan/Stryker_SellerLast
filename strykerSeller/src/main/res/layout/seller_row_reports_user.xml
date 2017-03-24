@@ -1,0 +1,111 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/DP20"
+    android:layout_marginRight="@dimen/DP20"
+    android:layout_marginTop="@dimen/DP20">
+
+    <ImageView
+        android:id="@+id/img_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/circle1" />
+
+    <RelativeLayout
+
+        android:id="@+id/rl_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DP15"
+        android:layout_marginRight="@dimen/DP5"
+        android:layout_marginTop="@dimen/DP10"
+        android:layout_toRightOf="@+id/img_profile">
+
+
+        <TextView
+            android:id="@+id/txt_store_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/txt_total_1"
+            android:singleLine="true"
+            android:text="Ammy Deans"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/txt_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/txt_store_name"
+            android:layout_marginTop="@dimen/DP5"
+            android:text="Total Units"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_unit_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_store_name"
+            android:layout_marginLeft="@dimen/DP10"
+            android:layout_marginTop="@dimen/DP5"
+            android:layout_toLeftOf="@+id/txt_total_1"
+            android:layout_toRightOf="@+id/txt_total"
+            android:text="2"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="366"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/img_rs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/txt_price"
+            android:src="@drawable/rs" />
+
+        <TextView
+            android:id="@+id/txt_total_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/DP5"
+            android:layout_toLeftOf="@+id/img_rs"
+            android:text="Total"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_notification"
+        android:layout_marginLeft="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP20"
+        android:background="@drawable/line3">
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

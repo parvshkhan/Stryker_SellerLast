@@ -1,0 +1,179 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color" >
+
+    <LinearLayout
+        android:id="@+id/ll_product_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_tabs"
+        android:orientation="horizontal"
+        android:weightSum="20" >
+
+        <RelativeLayout
+            android:id="@+id/rl_product_list"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingTop="@dimen/DP5" >
+
+            <TextView
+                android:id="@+id/txt_productlist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP3"
+                android:singleLine="true"
+                android:text="Product List"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/DP10" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/line_hori" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_hot_product"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingTop="@dimen/DP5" >
+
+            <TextView
+                android:id="@+id/txt_hotproduct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP3"
+                android:singleLine="true"
+                android:text="Hot Product"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/DP10" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/line_up"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_product_list"
+        android:background="@drawable/line3" >
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/img_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_line"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP10"
+        android:padding="@dimen/DP5"
+        android:src="@drawable/add_icon"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/img_publish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_line"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP20"
+        android:src="@drawable/off1"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/txt_publish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_line"
+        android:layout_marginRight="@dimen/DP10"
+        android:layout_marginTop="@dimen/DP20"
+        android:layout_toLeftOf="@+id/img_publish"
+        android:padding="@dimen/DP3"
+        android:singleLine="true"
+        android:text="Publish"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP10"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/img_unpublish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_line"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP20"
+        android:src="@drawable/on1"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/txt_unpublish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_line"
+        android:layout_marginRight="@dimen/DP10"
+        android:layout_marginTop="@dimen/DP20"
+        android:layout_toLeftOf="@+id/img_publish"
+        android:padding="@dimen/DP3"
+        android:singleLine="true"
+        android:text="Unpublish"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP10"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/lv_products"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_add"
+        android:layout_marginTop="@dimen/DP10"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:listSelector="@android:color/transparent"
+        android:overScrollMode="never" >
+    </ListView>
+
+    <ListView
+        android:id="@+id/lv_hot_products"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_add"
+        android:layout_marginTop="@dimen/DP10"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:fadingEdge="none"
+        android:listSelector="@android:color/transparent"
+        android:overScrollMode="never"
+        android:visibility="gone" >
+    </ListView>
+
+    <Button
+        android:id="@+id/btn_preview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/DP20"
+        android:background="@drawable/preview"
+        android:text="Preview"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP12"
+        android:visibility="gone" />
+
+   
+
+</RelativeLayout>

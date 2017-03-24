@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="@color/app_background_color">
+
+
+    <RelativeLayout
+
+        android:id="@+id/rl_notification"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DP100"
+        android:layout_below="@+id/ll_tabs"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_marginTop="@dimen/DP15">
+
+        <EditText
+            android:id="@+id/edt_desc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/text"
+            android:gravity="left|top"
+            android:hint="This is s dummy text"
+            android:inputType="textMultiLine"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingLeft="@dimen/DP15"
+            android:digits="0,1,2,3,4,
+            5,6,7,8,9,a,b,c,d,e,f,g,h,i,j,k,l,m,n
+            ,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,
+            J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,-,.,,/,@,#,?,;,="
+            android:paddingRight="@dimen/DP10"
+            android:paddingTop="@dimen/DP15"
+            android:textSize="@dimen/SP12" />
+
+
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_notification"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP10"
+        android:background="@drawable/send"
+        android:text="Send"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/SP20" />
+
+    <RelativeLayout
+        android:id="@+id/rl_notification_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_send"
+        android:layout_marginTop="@dimen/DP10"
+        >
+
+        <TextView
+            android:id="@+id/txt_notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/DP20"
+            android:layout_marginTop="@dimen/DP10"
+            android:text="Push Notification History"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15" />
+
+
+        <ListView
+            android:id="@+id/lv_notifications"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_notification"
+            android:layout_marginTop="@dimen/DP30"
+            android:dividerHeight="0dp"
+            android:divider="@android:color/transparent"
+            android:fadingEdge="none">
+
+        </ListView>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

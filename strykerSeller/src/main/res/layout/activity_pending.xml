@@ -1,0 +1,185 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_add1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Pending"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_store_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP10"
+        android:textSize="@dimen/SP15"
+        android:text="Happy Family Store"
+        android:textColor="@color/Text_color"
+        android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_header_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Toothpaste"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP12"
+            android:gravity="center_vertical|left"
+            android:layout_below="@+id/txt_store_name"
+            android:background="@drawable/cato"
+            android:layout_marginTop="@dimen/DP20"
+            android:paddingLeft="@dimen/DP20"/>
+
+    <ListView
+        android:id="@+id/lv_items"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_header_list"
+        android:layout_marginTop="@dimen/DP20"
+            android:visibility="gone"
+        >
+
+    </ListView>
+
+    <RelativeLayout
+        android:id="@+id/rl_total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lv_items"
+        android:layout_marginTop="@dimen/DP20"
+        android:layout_marginLeft="@dimen/DP50"
+        android:layout_marginRight="@dimen/DP50">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total"
+            android:textStyle="bold"
+            android:textSize="@dimen/SP15"
+            android:textColor="@color/Text_color_black"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/txt_price"
+            android:src="@drawable/rs"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/txt_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="366"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"
+            android:textColor="@color/Text_color"
+            android:layout_alignParentRight="true"
+            />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_delivery_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/rl_total"
+        android:layout_marginTop="@dimen/DP40">
+
+        <TextView
+            android:id="@+id/txt_expected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Expected Delivery"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP15" />
+
+        <TextView
+            android:id="@+id/txt_date1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/DP2"
+            android:layout_gravity="center_vertical"
+            android:text="15/03/2015"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color"
+            android:layout_marginLeft="@dimen/DP20"
+            android:textSize="@dimen/SP15" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_order_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ll_delivery_date"
+        android:layout_marginTop="@dimen/DP20">
+
+        <TextView
+            android:id="@+id/txt_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Order Date"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP15" />
+
+        <TextView
+            android:id="@+id/txt_date2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/DP2"
+            android:layout_gravity="center_vertical"
+            android:text="12/03/2015"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color"
+            android:layout_marginLeft="@dimen/DP20"
+            android:textSize="@dimen/SP15" />
+
+    </LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>

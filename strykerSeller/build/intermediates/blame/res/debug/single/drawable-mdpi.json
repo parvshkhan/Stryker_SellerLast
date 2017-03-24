@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\camera_upload.png",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\drawable-mdpi\\camera_upload.png"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\circle.png",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\drawable-mdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stryker_icon.png",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\drawable-mdpi\\stryker_icon.png"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gallery_upload.png",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\drawable-mdpi\\gallery_upload.png"
+    },
+    {
+        "merged": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "D:\\MarketApp\\Stryker_Seller\\strykerSeller\\src\\main\\res\\drawable-mdpi\\logo.png"
+    }
+]

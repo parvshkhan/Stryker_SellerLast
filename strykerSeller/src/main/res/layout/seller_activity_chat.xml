@@ -1,0 +1,139 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:id="@+id/txt_store_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bakery and  General Store"
+            android:layout_toRightOf="@+id/img_back"
+            android:layout_marginLeft="@dimen/DP15"
+            android:singleLine="true"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:orientation="horizontal"
+        android:weightSum="20">
+
+        <RelativeLayout
+
+            android:id="@+id/rl_manage_users"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/select2">
+
+            <TextView
+            android:id="@+id/txt_manage_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:padding="@dimen/DP5"
+            android:singleLine="true"
+            android:text="Users"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/txt_manage_user"
+                android:singleLine="true"
+                android:text=""
+                android:gravity="center"
+                android:padding="@dimen/DP5"
+                android:background="@drawable/circle_user"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold"
+                android:layout_marginRight="@dimen/DP20"/>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:id="@+id/rl_chat"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/select1">
+
+            <TextView
+                android:id="@+id/txt_chat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP5"
+                android:text="Chat"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_tabs"
+        android:background="@drawable/line3">
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_fragment_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_tabs"
+        >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager_chat"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fadingEdge="none" >
+
+        </android.support.v4.view.ViewPager>
+
+    </RelativeLayout>
+
+</RelativeLayout>

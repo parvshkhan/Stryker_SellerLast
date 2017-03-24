@@ -1,0 +1,163 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Settings"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+
+
+    </RelativeLayout>
+
+<!--
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_profile"
+    android:layout_marginLeft="@dimen/DP20"
+    android:layout_marginRight="@dimen/DP20"
+    android:layout_marginTop="@dimen/DP20"
+    android:layout_below="@+id/rl_header">
+
+
+
+
+    <TextView
+        android:id="@+id/txt_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="Edit Profile"
+        android:padding="@dimen/DP5"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP18" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/right_arrow"
+        android:id="@+id/imageArrow1"
+        android:paddingBottom="@dimen/DP10"
+        android:paddingRight="@dimen/DP10"
+        android:paddingLeft="@dimen/DP20"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageArrow1"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/line1" />
+
+</RelativeLayout>
+-->
+
+    <RelativeLayout
+
+        android:id="@+id/rl_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_marginTop="@dimen/DP20">
+
+        <TextView
+            android:id="@+id/txt_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Logout"
+            android:padding="@dimen/DP5"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP18" />
+
+        <ImageView
+            android:id="@+id/img_arrow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/right_arrow"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingRight="@dimen/DP10"
+            android:paddingLeft="@dimen/DP20"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_arrow3"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/line1" />
+
+
+    </RelativeLayout>
+
+
+<!--
+    <RelativeLayout
+
+        android:id="@+id/rl_change_passw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_profile"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_marginTop="@dimen/DP20">
+
+        <TextView
+            android:id="@+id/txt_change_passw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Change Password"
+            android:padding="@dimen/DP5"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP18" />
+
+        <ImageView
+            android:id="@+id/img_arrow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/right_arrow"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingRight="@dimen/DP10"
+            android:paddingLeft="@dimen/DP20"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_arrow2"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/line1" />
+
+
+    </RelativeLayout>
+-->
+
+
+</RelativeLayout>

@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:id="@+id/txt_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/img_back"
+            android:layout_marginLeft="@dimen/DP10"
+            android:layout_marginTop="@dimen/DP10"
+            android:text="Shrestha Jain"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP18" />
+
+        <TextView
+            android:id="@+id/txt_order_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_user_name"
+            android:layout_toRightOf="@+id/img_back"
+            android:layout_marginLeft="@dimen/DP10"
+            android:text="Order Pending..."
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP12" />
+
+        <ImageView
+            android:id="@+id/img_chat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP5"
+            android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP5"
+            android:visibility="invisible"
+            android:src="@drawable/chat_icon" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_order_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:background="@drawable/cato">
+
+        <TextView
+            android:id="@+id/txt_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Order Placed"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/SP15"
+            android:paddingLeft="@dimen/DP10"
+            android:textColor="@color/black1"
+            />
+
+        <TextView
+            android:id="@+id/txt_dateTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="adfhsdfh"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/txt_order"
+            android:layout_marginLeft="@dimen/DP10"
+            android:textSize="@dimen/SP12"
+            android:paddingLeft="@dimen/DP10"
+            android:textColor="@color/black1"
+            />
+
+        <ImageView
+            android:id="@+id/img_cancel_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cancel_order"
+            android:layout_alignParentRight="true"
+            android:paddingRight="@dimen/DP20"
+            android:paddingTop="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP10"/>
+        
+        <TextView android:id="@+id/txt_dispatch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:clickable="true"
+            android:text="Dispatch"
+            android:layout_centerVertical="true"
+            android:paddingTop="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"
+            android:layout_toLeftOf="@+id/img_cancel_order"
+            android:textColor="@color/Text_color"/>
+
+    </RelativeLayout>
+
+
+    <ListView
+        android:id="@+id/lv_items"
+        android:layout_marginTop="@dimen/DP20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_order_status"
+        android:divider="@android:color/transparent"
+        android:visibility="visible">
+
+    </ListView>
+
+
+</RelativeLayout>

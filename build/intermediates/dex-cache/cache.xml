@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_6059ff6d7a743fae7320af51868034072cbb822b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_9ff261daa3f12aad3ccaec9b97665abe7c6f3570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\httpclient-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="733db77aa8d9b2d68015189df76ab06304406e50">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5.2_c9cfc4b2c44d18a29618ad52f4e1e4a637bd0cbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_5139eb90876e6c6adc99ec46beccef0760005cfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_b7adf10de7f7ba7d27b8a2be28f19923cc93dc1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\httpclient-cache-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd50ea83908dbf2f387a333216e66d2f0c5079bd">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.5.2_3497763d71a4cf3675233a2012d4b605b41591a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_6dc983e479f73a1da92ba1b0637c6ad10f81f8c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_4faf04a15614d20380fde509cd5902046eb5ec92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_bc4121a5eee6d8acc217365d94a16a19d4e45463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\quickblox-android-sdk-messages-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb88f9e22bdc155635869e6fcb99e84bbeb03c7d">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\quickblox-android-sdk-messages-2.2.5_7587fb726ad4cb56abfc92188d9c0ff1a4073e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e1c071c7146ac254c9f2892d9060c81d9f04dee3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_2f02ad0e1b02ae718bcb356f5cda2231ce689ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_9905d45e11bb324980b2dc34c77a9832b5101a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\quickblox-android-sdk-content-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="edddf16e46f11112bf989a4b738cd81f4c587f6c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\quickblox-android-sdk-content-2.2.5_045b4c52f058a5e28f682022a1ab18a32c6682ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7ed5f0d18c609763120ca3f6d54c7433168dd14b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\quickblox-android-sdk-chat-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2f811f5f527471ec53ef85d1f47608c4ecadf96">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\quickblox-android-sdk-chat-2.2.5_fed1c46c6f82294cf179276a6395fea59ca78de4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_2aa869090be3db06d82e7d0f1e5016f82135416b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_2765beb48d2875befe2a44bfc94c3e38372bf094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_3c75434d8733d28e4086f055f578b94b03d47ffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_87e21fcdbf23fc1fde258360f62e514b38f5269f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_848f69f4b45eaa0bec463caec41d5ee4786bacef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_da2c37ecbb72fe7d4583b5409cbd077da8fdcd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_2263ea82adfcd015ec1fce3dc9a15c35b4674a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_5cb5fdacc7669b5fa405643095efeeb5224896b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_5012dc4e6485e40e3aeee97621a26a81ee1f919c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_a14fd564da6204f3e6222867861332ecbdc24226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_ae642bb5f043de751805ca448feada4449c5c1f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\httpcore-4.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.4_f0bc6d991942a4257ae09cc66bcfea4da823d7bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_9e40bfbd0e31c1234c0f9f2c6ff848b312223eaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_a9a77bf7acbd0520da4bd2c51e8b259f5898ce29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_22447c49886bbc17ff2da0ff260c8629afd41931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_27ce7a262c1ad19a94e458a5ce08a58ca1ac7cda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcfdf0badc754e0a08fd6198ef7b690378e0457b">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6a8ca32d20f81518555f104c021a6009c565f92d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_a35cbf57c6f8932f7d8a89a2366b5079b05b23ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_0f80e17165bfef5780a651ca7b35ae48b5a186f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_b8146e966f85c6b2a9dc56f7c0897e725982cacc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_3134cea2113eff76bcab22edca72ad872fa579a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_cf39b37fcc90ca82729fd141a6d33a9d42761d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_09ace2802acef9aada29c47ba8464ef9eeaa3d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_91e6e77db6565acc70ecc5c6fb875124b0cf209b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_80ffaeb68ccf50ab09a9d2425da8f1d1438f33ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_f6e838a6c2db77686e6a4cd0d7e193e3ada3f823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\quickblox-android-sdk-core-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b5e533a732485196c2a16cb6b8780606b7ecb2ee">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\quickblox-android-sdk-core-2.2.5_5054b5e2b0bdcacc6951f6fa57f0e52f26d3657e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5791339a4105ebff6b300e1c551c291256dd1e4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_c803304f590e3f89b6a677c9bf97e56681145a3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_54f9df5e3dd15f787a789a00edf90ca1d632deb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_6499ce4ea9eba18e0e417e76481109fc4dce0a3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_13b4f9ce89cc604deea1d81dc959f892fc59b7ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_43f2cefe377f9637f216c4ca090e33a089da97b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_5fb0db5f5a033e35ce9b791c7cf2ec7d9a6170ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.isseiaoki\simplecropview\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd1da81bab446923f39ec2f4bcf21ad7eeeb7806">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.isseiaoki-simplecropview-1.1.4_d1fdb14b58f2a7c86510a68a50a8ff35dca30ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3f8b1982bec86ae60e7aeeacdbdc947218d676f">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_689563350df7899b3e5ec8c6cb795050da5f08cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\libs\quickblox-android-sdk-videochat-webrtc-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9804fc8b3d7a50ae2080e2c5f81e4b523e1d26ab">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\2\quickblox-android-sdk-videochat-webrtc-2.2.4_0a6798edf55ee4ab22b777fc0a0a571912476896\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_274a1f5c48be74c37e86915e3654268dbb7bae90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_3270282033179a63bd2dbe98085ea58c10aa0c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_62dc9567bc9d3790fec90406a6af00571b29d89c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_bf5114b5ea7752df69dfe07d3b4cc636d87e4253\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_63dabd68b10c564c760a309cda572435cfd3b390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_ec1559cab34061f623749229b157e58dbe6a33bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_725123bf85ebdbed77e6297fcb973ca66bedb92d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_573bd802b2ab715d95d40219f92456d9cc749173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_b9e30b8b44c92e8ebfec5f64e73c2e4fee085939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c6009552a67ebf07071cd9b6ed42b11e4710ea2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_15070ab0491a71e59b67df1438f9ed8d548fc672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_caf25e0af97626462ef2cf634add4801a2075598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_fe925cacb51e99bc980d6bb580780d7730275624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_180907294f2f07233139f1c801f8662a64f097d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_496cd5c732ccbc35bd29bb2042422d4186e59a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_42a4e66c199ec084e6cc57352610e0f1b8e84a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_6c52c734455e722d3455e4eee0993537886f1630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_b1f93a2ee0af610fce267c4ac7b2131aad9837e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\MarketApp\Stryker_Seller\strykerSeller\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_294e2a934e8902f9a1d9eba9dfb4886c01847c5e\classes.dex" />
+    </item>
+
+</items>

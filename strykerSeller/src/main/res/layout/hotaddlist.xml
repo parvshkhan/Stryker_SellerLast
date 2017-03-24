@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+
+    <ListView
+        android:id="@+id/listview_hotproduct"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"
+        android:fadingEdge="none"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:headerDividersEnabled="false"
+        android:visibility="gone"
+        />
+
+    <ListView
+        android:id="@+id/listview_addproduct"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"
+        android:fadingEdge="none"
+        android:layout_below="@+id/listview_hotproduct"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:headerDividersEnabled="false"
+        android:visibility="gone"
+
+        />
+
+</RelativeLayout>

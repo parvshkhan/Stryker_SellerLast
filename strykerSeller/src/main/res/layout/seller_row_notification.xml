@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/DP20"
+    android:layout_marginRight="@dimen/DP20"
+    android:layout_marginTop="@dimen/DP20">
+
+    <ImageView
+        android:id="@+id/img_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/circle1"/>
+
+    <RelativeLayout
+
+        android:id="@+id/rl_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DP15"
+        android:layout_marginRight="@dimen/DP5"
+        android:layout_marginTop="@dimen/DP10"
+        android:layout_toRightOf="@+id/img_profile">
+
+
+        <TextView
+            android:id="@+id/txt_store_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ammy Deans"
+            android:layout_toLeftOf="@+id/txt_count"
+            android:layout_alignParentLeft="true"
+            android:singleLine="true"
+            android:textSize="@dimen/SP15"
+            android:textColor="@color/Text_color"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12"
+            android:layout_toLeftOf="@+id/txt_units"
+            android:textSize="@dimen/SP15"
+            android:textColor="@color/Text_color"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/txt_units"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Units"
+            android:textSize="@dimen/SP15"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/Text_color"
+            android:layout_marginLeft="@dimen/DP5"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_store_name"
+            android:layout_marginTop="@dimen/DP5"
+            android:text="Ammy gave you a order"
+            android:textSize="@dimen/SP12"
+            android:singleLine="true"
+            android:layout_toLeftOf="@+id/img_price"
+            android:layout_alignParentLeft="true"/>
+
+        <ImageView
+            android:id="@+id/img_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_store_name"
+            android:layout_marginTop="@dimen/DP5"
+            android:layout_toLeftOf="@+id/txt_price"
+            android:src="@drawable/rs" />
+
+        <TextView
+            android:id="@+id/txt_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/txt_store_name"
+            android:layout_marginTop="@dimen/DP5"
+            android:text="120"
+            android:textSize="@dimen/SP12"
+            android:textColor="@color/Text_color"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/DP20"
+        android:layout_marginLeft="@dimen/DP30"
+        android:layout_below="@+id/rl_notification"
+        android:background="@drawable/line3">
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

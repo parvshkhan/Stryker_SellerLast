@@ -1,0 +1,7 @@
+#Thu Mar 09 12:34:10 IST 2017
+base.0=D\:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6a8ca32d20f81518555f104c021a6009c565f92d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_689563350df7899b3e5ec8c6cb795050da5f08cf\\classes.dex
+base.1=D\:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_689563350df7899b3e5ec8c6cb795050da5f08cf
+file.0=D\:\\MarketApp\\Stryker_Seller\\strykerSeller\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6a8ca32d20f81518555f104c021a6009c565f92d\\classes.dex

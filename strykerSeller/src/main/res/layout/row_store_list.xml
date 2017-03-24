@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/DP15"
+    android:layout_marginRight="@dimen/DP15"
+    android:layout_marginTop="@dimen/DP15"
+    android:background="@drawable/card">
+
+
+    <ImageView
+        android:id="@+id/img_store"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/placeholder" />
+
+    <TextView
+        android:id="@+id/txt_store_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_store"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP3"
+        android:text="Casta general store"
+        android:singleLine="true"
+        android:textSize="@dimen/SP15"
+        android:layout_marginLeft="@dimen/DP10"
+        android:layout_marginRight="@dimen/DP10"
+        android:textColor="@color/Text_color"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/img_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_store_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP5"
+        android:src="@drawable/line3" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_line"
+        android:layout_marginBottom="20dp"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:id="@+id/rl_product_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/DP30"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingRight="@dimen/DP25"
+            android:paddingTop="@dimen/DP5">
+
+            <ImageView
+                android:id="@+id/img_product_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/product_list" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/DP10"
+                android:layout_toRightOf="@+id/img_product_list"
+                android:text="Product List"
+                android:textSize="@dimen/SP15"
+                android:textColor="@color/Text_color" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/img_up_line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/rl_product_list"
+            android:src="@drawable/line_up" />
+
+        <RelativeLayout
+            android:id="@+id/rl_chat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/img_up_line"
+            android:paddingLeft="@dimen/DP25"
+            android:paddingRight="@dimen/DP40"
+            android:paddingTop="@dimen/DP5">
+
+            <ImageView
+                android:id="@+id/img_chat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/chat" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/DP10"
+                android:layout_toRightOf="@+id/img_chat"
+                android:text="Chat"
+                android:textSize="@dimen/SP15"
+                android:textColor="@color/Text_color"/>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

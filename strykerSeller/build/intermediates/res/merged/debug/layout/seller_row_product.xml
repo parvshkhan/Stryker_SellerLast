@@ -1,0 +1,153 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical" >
+
+    <TextView
+        android:id="@+id/txt_header_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/base_grey"
+        android:clickable="false"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/DP20"
+        android:text="Colgate"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP12"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rel_base"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_header_add"
+        android:paddingLeft="@dimen/DP10"
+        android:paddingRight="@dimen/DP20"
+        android:paddingTop="@dimen/DP10" >
+
+        <RelativeLayout
+            android:id="@+id/rl_product_image"
+            android:layout_width="@dimen/DP60"
+            android:layout_height="@dimen/DP60"
+            android:layout_alignParentLeft="true" >
+            
+             <ImageView android:id="@+id/img_prod_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                />
+
+            <TextView
+                android:id="@+id/txt_initial"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"                
+                android:layout_centerVertical="true"
+                android:background="@drawable/drawable_red_bg"
+                android:gravity="center_vertical|center_horizontal"
+                android:text=""
+                android:padding="@dimen/DP5"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP20"
+                android:visibility="visible" />
+            
+            
+           
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" >
+
+            <TextView
+                android:id="@+id/txt_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:drawableLeft="@drawable/rs"
+                android:drawablePadding="@dimen/DP2"
+                android:padding="@dimen/DP2"
+                android:text=""
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/SP12"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/img_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/txt_price"
+                android:padding="@dimen/DP2"
+                android:src="@drawable/rs"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/img_select"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_price"
+                android:layout_marginRight="@dimen/DP30"
+                android:padding="@dimen/DP2"
+                android:src="@drawable/select"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/img_deselect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_price"
+                android:layout_marginRight="@dimen/DP30"
+                android:padding="@dimen/DP4"
+                android:src="@drawable/deselect1"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/img_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_price"
+                android:layout_toRightOf="@+id/img_deselect"
+                android:padding="@dimen/DP4"
+                android:src="@drawable/cross" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/txt_product_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/DP10"
+            android:layout_toLeftOf="@+id/rl_price"
+            android:layout_toRightOf="@+id/rl_product_image"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_product_name"
+            android:layout_marginLeft="@dimen/DP10"
+            android:layout_marginTop="@dimen/DP5"
+            android:layout_toLeftOf="@+id/rl_price"
+            android:layout_toRightOf="@+id/rl_product_image"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="@dimen/SP12" />
+
+        <RelativeLayout
+            android:id="@+id/rl_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_product_image"
+            android:layout_marginLeft="@dimen/DP35"
+            android:layout_marginTop="@dimen/DP10"
+            android:background="@drawable/line3" >
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

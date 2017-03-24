@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/DP20"
+    android:layout_marginRight="@dimen/DP20"
+    android:layout_marginTop="@dimen/DP20">
+
+    <TextView
+        android:id="@+id/txt_nmbr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1."
+        />
+
+    <RelativeLayout
+
+        android:id="@+id/rl_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DP15"
+        android:layout_toRightOf="@+id/txt_initial">
+
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="@dimen/DP100"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_store_name"
+            android:text="91 Western Road Brighton East Succex England BN1 2NW"
+            android:layout_toLeftOf="@+id/img_price"
+            android:layout_alignParentLeft="true"
+            android:paddingLeft="@dimen/DP5"
+            android:paddingRight="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"/>
+
+        <ImageView
+            android:id="@+id/img_radio_off"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/off"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/DP50"
+
+            />
+
+
+    </RelativeLayout>
+
+
+
+        <ImageView
+            android:id="@+id/img_line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_address"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/DP10"
+            android:src="@drawable/line3" />
+
+
+</RelativeLayout>

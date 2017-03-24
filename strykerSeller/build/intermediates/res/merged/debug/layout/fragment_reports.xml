@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+
+    <LinearLayout
+        android:id="@+id/ll_order_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_tabs"
+        android:orientation="horizontal"
+        android:weightSum="30">
+
+        <RelativeLayout
+            android:id="@+id/rl_date"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingTop="@dimen/DP5">
+
+            <TextView
+                android:id="@+id/txt_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP3"
+                android:text="Date"
+                android:singleLine="true"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/DP10" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/line_up" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_product"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingTop="@dimen/DP5">
+
+            <TextView
+                android:id="@+id/txt_pending"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP3"
+                android:text="Product"
+                android:singleLine="true"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/DP10" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/line_up" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_user"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingTop="@dimen/DP5">
+
+            <TextView
+                android:id="@+id/txt_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP3"
+                android:text="User"
+                android:singleLine="true"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/DP10" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/line_up"
+                android:visibility="gone"/>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_order_status"
+        android:background="@drawable/line3">
+
+    </RelativeLayout>
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swieeffepe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_line">
+
+        <ListView
+            android:id="@+id/lv_reports"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:dividerHeight="0dp"
+            android:divider="@android:color/transparent"
+            android:fadingEdge="none" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+
+
+
+
+
+</RelativeLayout>

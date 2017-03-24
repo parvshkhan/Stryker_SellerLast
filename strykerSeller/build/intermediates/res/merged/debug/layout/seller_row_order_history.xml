@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/rl_order_history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/txt_date_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cato"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="@dimen/DP20"
+            android:text="12/03/2015"
+            android:textStyle="bold"
+            android:textColor="@color/date_header_color"
+            android:textSize="@dimen/SP12" />
+
+        <RelativeLayout
+            android:id="@+id/rl_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_date_header"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingTop="@dimen/DP10"
+            android:layout_marginLeft="@dimen/DP20"
+            android:layout_marginRight="@dimen/DP20">
+
+
+            <TextView
+                android:id="@+id/txt_total_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="Total Units"
+                android:textColor="@color/Text_color_black"
+                android:textSize="@dimen/SP15"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/txt_unit_count_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/DP10"
+                android:layout_toRightOf="@+id/txt_total_2"
+                android:singleLine="true"
+                android:text="12345"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/img_rs_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/txt_price_2"
+                android:src="@drawable/rs" />
+
+            <TextView
+                android:id="@+id/txt_price_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="222"
+                android:textColor="@color/Text_color"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_total_price_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/DP10"
+                android:layout_toLeftOf="@+id/img_rs_2"
+                android:text="Total"
+                android:textColor="@color/Text_color_black"
+                android:textSize="@dimen/SP15"
+                android:textStyle="normal" />
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,124 @@
+<resources>
+
+    <string name="app_name">Market Business</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="runtime_permissions_txt">Please enable ALL permissions from app settings.</string>
+    <color name="SignIn">#EA3900</color>
+    <color name="Text_color">#EA3B00</color>
+    <color name="Text_color_black">#777777</color>
+    <color name="Add_Product_BG">#FFF1EE</color>
+    <color name="List_BG">#FCD4C1</color>
+    <color name="white1">#F2F2F2</color>
+    <color name="hint_color">#88F2F2F2</color>
+    <color name="orange">#FA8258</color>
+    <color name="orange1">#DF3A01</color>
+    <color name="white">#ffffff</color>
+    <color name="bton_txt_color">#DF3A01</color>
+    <color name="black1">#424242</color>
+    <color name="red">#ea3b00</color>
+    <color name="header_color">#ffffff</color>
+    <color name="base_text_color">#eb4913</color>
+    <color name="base_text_color_2">#ec511c</color>
+    <color name="price_color">#ea3901</color>
+    <color name="header_txt_color">#ffece5</color>
+    <color name="etxt_color">#f39b8c</color>
+    <color name="selected_tab_red_color">#B40404</color>
+    <color name="app_background_color">#F0F0EF</color>
+    <color name="date_header_color">#424242</color>
+
+    <!-- http://services.appliconsultants.com/stryker/ -->
+    <!--  development url-->
+    <!--  http://marketapponline.com/market/web/ -->
+
+    <!-- production url http://marketapp.online/web/ -->
+
+
+    <!-- production -->
+
+
+    <string name="AddStore_URL">http://marketapp.online/web/service/addsellerstore</string>
+    <string name="login_url">http://marketapp.online/web/service/login</string>
+    <string name="registration_url">http://marketapp.online/web/service/registration</string>
+    <string name="forgot_password_url">http://marketapp.online/web/service/forgetpassword</string>
+    <string name="store_listing_for_add_url">http://marketapp.online/web/service/liststoretoadd</string>
+    <string name="add_store_url">http://marketapp.online/web/service/addbuyerstore</string>
+    <string name="home_data_url">http://marketapp.online/web/service/homedata</string>
+    <string name="product_list_url">http://marketapp.online/web/service/productlist</string>
+    <string name="remove_store_url">http://marketapp.online/web/service/removestore</string>
+    <string name="add_image_url">http://marketapp.online/web/service/addimage</string>
+    <string name="remove_image_url">http://marketapp.online/web/service/deleteimage</string>
+    <string name="seller_home_url">http://marketapp.online/web/service/sellerhome</string>
+    <string name="productlist_url">http://marketapp.online/web/service/productlist</string>
+    <string name="addproduct_url">http://marketapp.online/web/service/addproduct</string>
+    <string name="deleteproduct_url">http://marketapp.online/web/service/deleteproduct</string>
+    <string name="manage_user_url">http://marketapp.online/web/service/manageuserlist</string>
+    <string name="remove_user_url">http://marketapp.online/web/service/removeuserstore</string>
+    <string name="block_user_url">http://marketapp.online/web/service/blockuser</string>
+    <string name="order_history_url">http://marketapp.online/web/service/userorderhistory</string>
+    <string name="cancel_order_url">http://marketapp.online/web/service/updateorderstatus</string>
+    <string name="report_productwise_url">http://marketapp.online/web/service/productwisereport</string>
+    <string name="report_datewaise_url">http://marketapp.online/web/service/datewisereport</string>
+    <string name="report_userwise_url">http://marketapp.online/web/service/userwisereport</string>
+    <string name="notification_list_url">http://marketapp.online/web/service/pushnotifications</string>
+    <string name="send_notification_url">http://marketapp.online/web/service/sendnotification</string>
+    <string name="resend_code_url">http://marketapp.online/web/service/resendverificationcode</string>
+    <string name="verify_mobile_url">http://marketapp.online/web/service/verifymobilenumber</string>
+    <string name="publish_url">http://marketapp.online/web/service/publishhotproduct</string>
+    <string name="update_hotproduct_url">http://marketapp.online/web/service/updatehotproduct</string>
+    <string name="image_base_url">http://marketapp.online/web/uploads/</string>
+    <string name="indus_type_url">http://marketapp.online/web/service/industrytype</string>
+    <string name="add_dialog_url">http://marketapp.online/web/service/adddialog</string>
+    <string name="get_dialog_url">http://marketapp.online/web/service/getdialog</string>
+    <string name="update_chat">http://marketapp.online/web/service/udpatechatid</string>
+    <string name="notifications_url">http://marketapp.online/web/service/sellernotification</string>
+    <string name="update_prt_detail_oducurl">http://marketapp.online/web/service/updateproudct</string>
+    <string name="promote_app_url">http://marketapp.online/web/service/promotion</string>
+
+    <!--development app  -->
+    <!--   <string name="AddStore_URL">http://marketapponline.com/market/web/service/addsellerstore</string>
+     <string name="login_url">http://marketapponline.com/market/web/service/login</string>
+     <string name="registration_url">http://marketapponline.com/market/web/service/registration</string>
+     <string name="forgot_password_url">http://marketapponline.com/market/web/service/forgetpassword</string>
+     <string name="store_listing_for_add_url">http://marketapponline.com/market/web/service/liststoretoadd</string>
+     <string name="add_store_url">http://marketapponline.com/market/web/service/addbuyerstore</string>
+     <string name="home_data_url">http://marketapponline.com/market/web/service/homedata</string>
+     <string name="product_list_url">http://marketapponline.com/market/web/service/productlist</string>
+     <string name="remove_store_url">http://marketapponline.com/market/web/service/removestore</string>
+     <string name="add_image_url">http://marketapponline.com/market/web/service/addimage</string>
+     <string name="remove_image_url">http://marketapponline.com/market/web/service/deleteimage</string>
+     <string name="seller_home_url">http://marketapponline.com/market/web/service/sellerhome</string>
+     <string name="productlist_url">http://marketapponline.com/market/web/service/productlist</string>
+     <string name="addproduct_url">http://marketapponline.com/market/web/service/addproduct</string>
+     <string name="deleteproduct_url">http://marketapponline.com/market/web/service/deleteproduct</string>
+     <string name="manage_user_url">http://marketapponline.com/market/web/service/manageuserlist</string>
+     <string name="remove_user_url">http://marketapponline.com/market/web/service/removeuserstore</string>
+     <string name="block_user_url">http://marketapponline.com/market/web/service/blockuser</string>
+     <string name="order_history_url">http://marketapponline.com/market/web/service/userorderhistory</string>
+     <string name="cancel_order_url">http://marketapponline.com/market/web/service/updateorderstatus</string>
+     <string name="report_productwise_url">http://marketapponline.com/market/web/service/productwisereport</string>
+     <string name="report_datewaise_url">http://marketapponline.com/market/web/service/datewisereport</string>
+     <string name="report_userwise_url">http://marketapponline.com/market/web/service/userwisereport</string>
+     <string name="notification_list_url">http://marketapponline.com/market/web/service/pushnotifications</string>
+     <string name="send_notification_url">http://marketapponline.com/market/web/service/sendnotification</string>
+     <string name="resend_code_url">http://marketapponline.com/market/web/service/resendverificationcode</string>
+     <string name="verify_mobile_url">http://marketapponline.com/market/web/service/verifymobilenumber</string>
+     <string name="publish_url">http://marketapponline.com/market/web/service/publishhotproduct</string>
+     <string name="update_hotproduct_url">http://marketapponline.com/market/web/service/updatehotproduct</string>
+     <string name="image_base_url">http://marketapponline.com/market/web/uploads/</string>
+     <string name="indus_type_url">http://marketapponline.com/market/web/service/industrytype</string>
+     <string name="add_dialog_url">http://marketapponline.com/market/web/service/adddialog</string>
+     <string name="get_dialog_url">http://marketapponline.com/market/web/service/getdialog</string>
+     <string name="update_chat">http://marketapponline.com/market/web/service/udpatechatid</string>
+     <string name="notifications_url">http://marketapponline.com/market/web/service/sellernotification</string>
+     <string name="update_product_detail_url">http://marketapponline.com/market/web/service/updateproduct</string> -->
+
+
+    <string name="del_tag_1">1</string>
+    <string name="del_tag_2">2</string>
+    <string name="del_tag_3">3</string>
+    <string name="del_tag_4">4</string>
+    <string name="del_tag_5">5</string>
+    <string name="Runtimepermissointext">runtimepermission</string>
+
+</resources>

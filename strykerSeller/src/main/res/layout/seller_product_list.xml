@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_add1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Manage Products"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+
+
+        <ImageView
+            android:id="@+id/img_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP10"
+            android:paddingLeft="@dimen/DP10"
+            android:visibility="invisible"
+            android:src="@drawable/search2" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:orientation="horizontal"
+        android:weightSum="30">
+
+        <RelativeLayout
+
+            android:id="@+id/rl_storefront"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/deselect">
+
+            <TextView
+                android:id="@+id/txt_pushnotification"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP5"
+                android:singleLine="true"
+                android:text="PUSH NOTIFICATION"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:id="@+id/rl_stores"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/select2">
+
+            <TextView
+                android:id="@+id/txt_product_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP5"
+                android:singleLine="true"
+                android:text="PRODUCT LIST"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:id="@+id/rl_chat"
+            android:layout_width="@dimen/DP0"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/deselect">
+
+            <TextView
+                android:id="@+id/txt_reports"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="@dimen/DP5"
+                android:text="REPORTS"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP15"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listview_outer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_tabs"
+        android:overScrollMode="never"
+        android:fadingEdge="none"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:headerDividersEnabled="false"
+        >
+
+    </ListView>
+
+</RelativeLayout>
